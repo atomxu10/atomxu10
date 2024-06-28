@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Hello, I'm Richeng, a graduate student with a passion for data and a background in statistical analysis. I hold a Master’s degree in Statistics from the University of Sheffield and have over 1-year experience in a data support role.
+
+I am proficient in programming languages like Python, R, and SQL, which I use for tasks including data cleansing, exploratory data analysis, and ML modeling. Also, I am skilled in using visualization tools like Tableau to develop insightful dashboards and reports. 
 <!--
 **atomxu10/atomxu10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
