@@ -2,7 +2,7 @@
 
 I'm Richeng, a graduate student with a passion for data and a background in statistical analysis. I hold a Master’s degree in Statistics from the University of Sheffield and have 1.5 years experience in a data support role.
 
-I am proficient in programming languages like Python, R, and SQL, which I use for tasks including data cleansing, exploratory data analysis, and ML modeling. Also, I am skilled in using visualization tools like Tableau to develop insightful dashboards. 
+I am proficient in programming languages like Python, R, and SQL, which I use for tasks including data cleansing, exploratory data analysis, and ML modeling. Additionally, I am skilled in using the MS Office Suite and Tableau to develop insightful dashboards and reports.
 
 Check out my GitHub for projects and connect with me on Linkedin. Thanks for visiting!😄
 <!--
