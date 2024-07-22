@@ -4,7 +4,7 @@ I'm Richeng, a graduate student with a passion for data and a background in stat
 
 I am proficient in programming languages like Python, R, and SQL, which I use for tasks including data handling, exploratory analysis, and ML modelling. Additionally, I am skilled in using the MS Office Suite and Tableau to develop insightful dashboards and reports.
 
-Check out my GitHub for projects and connect with me on Linkedin. Thanks for visiting!😄
+Check out my GitHub for my personal projects and connect with me on Linkedin. Thanks for visiting!😄
 <!--
 **atomxu10/atomxu10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
