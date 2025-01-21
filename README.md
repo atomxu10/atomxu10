@@ -1,10 +1,10 @@
 ## Hi 👋
 
-I'm Richeng, a graduate student with a passion for data and a background in statistical analysis. I hold a Master’s degree in Statistics from the University of Sheffield and have 1.5 years experience in a data support role.
+Hi, I’m Richeng! I bring over two years of experience in data analysis, currently serving as a Product Manager (Data Support) at SpinnrTech. I also hold a Master’s degree in Statistics from the University of Sheffield.
 
-I am proficient in programming languages like Python, R, and SQL, which I use for tasks including data handling, exploratory analysis, and ML modelling. Additionally, I am skilled in using the MS Office Suite and Tableau to develop insightful dashboards and reports.
+I have experience using SQL and Python to process complex datasets efficiently in a professional setting. Additionally, I excel at optimizing workflows through the development and implementation of automated scripts, enhancing both accuracy and productivity.
 
-Check out my GitHub for my personal projects and connect with me on Linkedin. Thanks for visiting!😄
+Feel free to explore my projects and connect with me on Linkedin. Thanks for visiting!😄
 <!--
 **atomxu10/atomxu10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
