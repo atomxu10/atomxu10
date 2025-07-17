@@ -1,10 +1,10 @@
 ## Hi 👋
 
-Hi, I’m Richeng! I bring over two years of experience in data analysis, currently serving as a Product Manager (Data Support) at SpinnrTech. I also hold a Master’s degree in Statistics from the University of Sheffield.
+Hi, I’m Richeng! I bring over two years of experience in data analysis, currently serving as a data engineer at SpinnrTech. I also hold a Master’s degree in Statistics from the University of Sheffield.
 
 I have experience using SQL and Python to process complex datasets efficiently in a professional setting. Additionally, I excel at optimizing workflows through the development and implementation of automated scripts, enhancing both accuracy and productivity.
 
-Feel free to explore my projects and connect with me on Linkedin. Thanks for visiting!😄
+Feel free to explore my projects and connect with me on LinkedIn. Thanks for visiting!😄
 <!--
 **atomxu10/atomxu10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
