@@ -1,10 +1,10 @@
 ## Hi 👋
 
-Hi, I’m Richeng! 
+I’m Richeng! 
 
 I’m currently a Data Engineer at SpinnrTech with over 2 years of experience in data extraction, transformation, and analysis across the e-commerce and iGaming industries. I also hold a Master’s degree in Statistics from the University of Sheffield.
 
-I have experience using SQL and Python to process complex datasets efficiently in a professional setting. Additionally, I excel at optimizing workflows through the development and implementation of automated scripts, enhancing both accuracy and productivity.
+I have experience using SQL and Python to process complex datasets efficiently. Additionally, I excel at optimizing workflows through the development and implementation of automated scripts, which enhances accuracy and productivity.
 
 Feel free to explore my projects and connect with me on LinkedIn. Thanks for visiting!😄
 <!--
