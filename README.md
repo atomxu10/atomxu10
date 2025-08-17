@@ -6,7 +6,7 @@ I’m currently a Data Engineer at SpinnrTech with over 2 years of experience in
 
 I have experience using SQL and Python to process complex datasets efficiently. Additionally, I excel at optimizing workflows through the development and implementation of automated scripts, which enhances accuracy and productivity.
 
-Feel free to explore my projects and connect with me on LinkedIn. Thanks for visiting!😄
+Feel free to explore my projects and connect with me on LinkedIn! 😄
 <!--
 **atomxu10/atomxu10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
